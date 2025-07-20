@@ -81,6 +81,17 @@ SAT-1
 - 📝 Event log in `events_log.csv`
 - 🚨 Console alerts for any detected collision risks
 
+```
+Satellite Collision Avoidance Simulation Starting ...
+Loaded 3 satellites into constellation.
+Checking candidate orbit for collision risks ...
+NEW-SAT-NO-COLLIDE added to constellation and saved.
+Final Constellation:
+- SAT-1
+SAT-2
+- NEW-SAT
+NEW-SAT-NO-COLLIDE
+```
 ---
 
 ## 📌 Future Improvements
