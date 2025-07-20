@@ -17,13 +17,14 @@ This project simulates a real-time collision-aware satellite deployment system u
 
 ```
 safe-constellation-smart-tle-simulation/
-├── main.py                # Main simulation logic
-├── collision_check.py     # Collision detection and TLE adjustment
-├── logger.py              # Logging events to CSV
-├── tle_data.txt           # Existing constellation TLEs
-├── events_log.csv         # Output log file (auto-generated)
-├── README.md              # Documentation
-└── requirements.txt       # Python dependencies
+ └──project
+      ├── main.py                # Main simulation logic
+      ├── collision_check.py     # Collision detection and TLE adjustment
+      ├── logger.py              # Logging events to CSV
+      ├── tle_data.txt           # Existing constellation TLEs
+      ├── events_log.csv         # Output log file (auto-generated)
+      ├── README.md              # Documentation
+      └── requirements.txt       # Python dependencies
 ```
 
 ---
