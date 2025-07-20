@@ -23,7 +23,6 @@ safe-constellation-smart-tle-simulation/
       ├── logger.py              # Logging events to CSV
       ├── tle_data.txt           # Existing constellation TLEs
       ├── events_log.csv         # Output log file (auto-generated)
-      ├── README.md              # Documentation
       └── requirements.txt       # Python dependencies
 ```
 
