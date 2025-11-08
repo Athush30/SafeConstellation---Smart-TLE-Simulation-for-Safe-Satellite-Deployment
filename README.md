@@ -100,9 +100,3 @@ NEW-SAT-NO-COLLIDE
 - 3D orbital visualization using `plotly` or `matplotlib`
 
 ---
-
-## 📜 License
-
-MIT License (add `LICENSE` file for clarity)
-
----
